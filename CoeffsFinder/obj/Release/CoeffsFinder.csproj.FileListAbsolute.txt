@@ -1,0 +1,7 @@
+D:\МАИ\диссер-высер\PcPerformanceTester\PCPerofmanceTester\CoeffsFinder\bin\Release\CoeffsFinder.exe.config
+D:\МАИ\диссер-высер\PcPerformanceTester\PCPerofmanceTester\CoeffsFinder\bin\Release\CoeffsFinder.exe
+D:\МАИ\диссер-высер\PcPerformanceTester\PCPerofmanceTester\CoeffsFinder\bin\Release\CoeffsFinder.pdb
+D:\МАИ\диссер-высер\PcPerformanceTester\PCPerofmanceTester\CoeffsFinder\obj\Release\CoeffsFinder.csprojAssemblyReference.cache
+D:\МАИ\диссер-высер\PcPerformanceTester\PCPerofmanceTester\CoeffsFinder\obj\Release\CoeffsFinder.csproj.CoreCompileInputs.cache
+D:\МАИ\диссер-высер\PcPerformanceTester\PCPerofmanceTester\CoeffsFinder\obj\Release\CoeffsFinder.exe
+D:\МАИ\диссер-высер\PcPerformanceTester\PCPerofmanceTester\CoeffsFinder\obj\Release\CoeffsFinder.pdb
